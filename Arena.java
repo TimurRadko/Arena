@@ -7,10 +7,6 @@ public class Arena {
         Warrior warrior1 = new Gladiator("Tom");
         Warrior warrior2 = new MagicianFire("MagicianFire");
 
-        //Random random = new Random();
-        //Warrior warrior1 = new Warrior("Timur", random.nextInt(30), random.nextInt(200) + 1);
-        //Warrior warrior2 = new Warrior("Katya", random.nextInt(30), random.nextInt(200) + 1);
-
         System.out.println(warrior1);
         System.out.println(warrior2);
 
