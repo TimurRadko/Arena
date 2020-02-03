@@ -1,7 +1,5 @@
 package com.timurradko.arena;
 
-import java.util.Random;
-
 public class Arena {
     public static void main(String[] args) throws InterruptedException {
         Warrior warrior1 = new Gladiator("Tom");
